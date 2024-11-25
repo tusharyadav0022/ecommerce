@@ -4,7 +4,7 @@
  
  
 ### Home page
-![Screenshot 1](screenshots/1.jpeg)
+![Screenshot 1](screenshot/1.jpeg)
 
 
 

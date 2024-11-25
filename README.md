@@ -4,19 +4,19 @@
  
  
 ### Home page
-![1](//screenshot/1.jpeg)
+![Screenshot 1](screenshots/1.png)
 
 
 
 ### Content Description page
-![2](//screenshot/2.jpeg)
+![Screenshot 2](screenshot/2.jpeg)
 
 
 
 ### Ordered List page
-![3](//screenshot/3.jpeg)
+![Screenshot 3](screenshot/3.jpeg)
 
 
 
 ### Order confirm page
-![4](//screenshot/4.jpeg)
+![Screenshot 4](screenshot/4.jpeg)
